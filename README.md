@@ -2,7 +2,7 @@
 ##### By: Jonathan Vasquez (fearedbliss)
 ##### Build: 2022-11-09-1230
 ##### [The Moving Caravan](https://themovingcaravan.com/) - A Diablo II Time Traveling Community (1.00 - 1.10) ([Videos](https://www.youtube.com/channel/UCxkGpI6vroZC7E10fRHAHiA))
-
+.
 ## Screenshots
 
 ### Light Mode
